@@ -58,7 +58,6 @@ export default function About() {
                   icon: MapPin,
                   label: 'Location',
                   value: 'Virginia, USA',
-                  sub: 'STEM OPT',
                 },
               ].map((item) => (
                 <div
